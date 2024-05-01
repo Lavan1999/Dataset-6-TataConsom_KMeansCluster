@@ -30,9 +30,8 @@ The "TataConsom" dataset contains information about tradings. Each entry represe
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Colab Notebook
-- KMeans
+- KMeans Cluster
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
